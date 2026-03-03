@@ -26,3 +26,7 @@ Thumbs.db
 *.stamp
 /Debug/
 /Release/
+/scintilla/bin/*.dll
+/scintilla/bin/*.exe
+/scite/bin/*.dll
+/scite/bin/*.exe
